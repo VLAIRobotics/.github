@@ -9,10 +9,9 @@ VLAI Robotics 面向客户公开的产品 SDK、机器人软件包和部署资�
 | Repository | Description | 仓库说明 |
 |---|---|---|
 | [VLAI_robotics_U1L](https://github.com/VLAIRobotics/VLAI_robotics_U1L) | Public software package for the U1L robot platform. | U1L 机器人平台公开软件包。 |
-| [x_air_release](https://github.com/VLAIRobotics/x_air_release) | SDK release package for X-Air, including user documentation, ROS2 modules, CAN SDK, UI tools, and example scripts. | X-Air 产品 SDK 发布包，包含用户文档、ROS2 模块、CAN SDK、UI 工具和示例脚本。 |
-| [VR-Collector-Release](https://github.com/VLAIRobotics/VR-Collector-Release) | Public release package for the VR Collector SDK. | VR Collector SDK 公开发布包。 |
-| [VLAIRobotics](https://github.com/VLAIRobotics/VLAIRobotics) | Public organization repository for VLAI Robotics resources. | VLAI Robotics 公开组织资源仓库。 |
-| [X1_openpi](https://github.com/VLAIRobotics/X1_openpi) | Public OpenPI-related software package for X1. | X1 OpenPI 相关公开软件包。 |
+| [x_air_release](https://github.com/VLAIRobotics/x_air_release) | Release package for the X1 series development edition, including SDK resources, user documentation, ROS2 modules, CAN SDK, UI tools, and example scripts. | X1 系列开发版发布包，包含 SDK 资源、用户文档、ROS2 模块、CAN SDK、UI 工具和示例脚本。 |
+| [VR-Collector-Release](https://github.com/VLAIRobotics/VR-Collector-Release) | VR teleoperation control package for the X1 and L1 series. | X1 及 L1 系列 VR 遥操作控制发布包。 |
+| [X1_openpi](https://github.com/VLAIRobotics/X1_openpi) | Training and deployment workflow for adapting the X1 series to the OpenPI framework. | X1 系列适配 OpenPI 框架的训练与部署流程。 |
 | [L1_release](https://github.com/VLAIRobotics/L1_release) | Public release package for L1 product resources. | L1 产品资源公开发布包。 |
 
 ## Usage / 使用说明
