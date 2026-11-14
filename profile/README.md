@@ -18,10 +18,6 @@ VLAI Robotics 面向客户公开的产品、机器人软件包和部署资源仓
       <br />
       <strong>L1 Series / L1 系列</strong>
     </td>
-        <td width="50%" align="center">
-      <img src="assets/l1-product.png" alt="L1 Series product introduction" width="100%" />
-      <br />
-      <strong>L1 Series / L1 系列</strong>
     </td>
   </tr>
 </table>
