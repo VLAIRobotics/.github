@@ -1,10 +1,9 @@
-<td width="60%" align="center"><img
-  src="assets/LOGO.png"
-  alt="VLAI Robotics"
-  width="60%"
-  style="display: block; margin-left: auto; margin-right: auto;"
-/> 
-<strong>X1 Series / X1 系列</strong>
+<td width="60%" align="center">
+  <div align="center">
+    <img src="assets/LOGO.png" alt="VLAI Robotics" width="60%" />
+    <br />
+    <strong>X1 Series / X1 系列</strong>
+  </div>
 </td>
 VLAI Robotics public repositories for customer-facing product SDKs, robot software packages, and deployment resources.
 
