@@ -4,13 +4,13 @@
     <br />
   </div>
 </td>
-<br /><br />
+<br />
 <div align="center">
   VLAI Robotics public repositories for customer-facing product SDKs, robot software packages, and deployment resources.
   <br />
   VLAI Robotics 未来动力面向客户公开的产品、机器人软件包和部署资源仓库。
 </div>
-<br /><br />
+<br />
 
 ## Products / 产品介绍
 
