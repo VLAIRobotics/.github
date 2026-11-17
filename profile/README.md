@@ -28,10 +28,10 @@ VLAI Robotics 面向客户公开的产品、机器人软件包和部署资源仓
 |---|---|---|
 | [VLAI_robotics_U1L](https://github.com/VLAIRobotics/VLAI_robotics_U1L) | Public software package for the U1L robot platform. | U1L 机器人平台公开软件包。 |
 | [x_air_release](https://github.com/VLAIRobotics/x_air_release) | Release package for the X1 series development edition, including SDK resources, user documentation, ROS2 modules, CAN SDK, UI tools, and example scripts. | X1 系列开发版发布包，包含 SDK 资源、用户文档、ROS2 模块、CAN SDK、UI 工具和示例脚本。 |
-| [VR-Collector-Release](https://github.com/VLAIRobotics/VR-Collector-Release) | VR teleoperation control package for the X1 and L1 series. | X1 及 L1 系列 VR 遥操作控制发布包。 |
 | [X1_openpi](https://github.com/VLAIRobotics/X1_openpi) | Training and deployment workflow for adapting the X1 series to the OpenPI framework. | X1 系列适配 OpenPI 框架的训练与部署流程。 |
 | [L1_air_release](https://github.com/VLAIRobotics/l1_air_release) | Release repository for the L1 Air SDK (v1.0.0), based on X1 v1.4.0, with module docs for xarm_can, ROS2, teleoperation, actions, chassis control, UI, and Release assets for the complete SDK package. | L1 Air SDK 发布仓库（v1.0.0，基于 X1 v1.4.0），提供 xarm_can、ROS2、遥操作、动作、底盘控制、UI 等模块文档，并通过 Release 附件发布完整 SDK 包。 |
 | [K1_air_release](https://github.com/VLAIRobotics/K1_air_release) | Release repository for the K1 Air SDK (v1.0.0), based on X1 v1.4.0, with module docs for xarm_can, ROS2, teleoperation, actions, chassis control, UI, and Release assets for the complete SDK package. | K1 Air SDK 发布仓库（v1.0.0，基于 X1 v1.4.0），提供 xarm_can、ROS2、遥操作、动作、底盘控制、UI 等模块文档，并通过 Release 附件发布完整 SDK 包。 |
+| [VR-Collector-Release](https://github.com/VLAIRobotics/VR-Collector-Release) | VR teleoperation control package for the X1 and L1 series. | X1 及 L1 系列 VR 遥操作控制发布包。 |
 | [mechanical-files](https://github.com/VLAIRobotics/mechanical-files) | Public mechanical reference files for the X1 and L1 series, including STL models, end-effector flange STEP files, and hole-pattern drawings. | X1 及 L1 系列公开机械参考资料，包含 STL 模型、末端法兰 STEP 文件和孔位工程图。 |
 | [navigation](https://github.com/VLAIRobotics/navigation) | Open-source navigation-related code and resources for the K1 and L1 robotic platforms. | K1 及 L1 系列机器人开源导航代码及相关资源，包含机器人自主导航相关功能。 |
 
