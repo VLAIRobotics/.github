@@ -1,5 +1,10 @@
 <td width="60%" align="center">
-  <img src="assets/LOGO.png" alt="VLAI Robotics" width="60%" />
+  <img
+    src="assets/LOGO.png"
+    alt="VLAI Robotics"
+    width="60%"
+    style="display: block; margin: 0 auto;"
+  />
 
   <strong>X1 Series / X1 系列</strong>
 </td>
