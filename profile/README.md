@@ -5,7 +5,6 @@
     width="60%"
     style="display: block; margin: 0 auto;"
   />
-
   <strong>X1 Series / X1 系列</strong>
 </td>
 VLAI Robotics public repositories for customer-facing product SDKs, robot software packages, and deployment resources.
